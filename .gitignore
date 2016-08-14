@@ -1,3 +1,7 @@
+# Composer ignores
+composer.phar
+[vV]endor/
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
